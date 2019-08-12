@@ -10,7 +10,6 @@
 	* [Install `@titanium/coremotion` in root of project](#install-titaniumcoremotion-in-root-of-project)
 		* [Example](#example)
 * [✨Features](#features)
-* [Library versions:](#library-versions)
 * [📚Learn More](#learn-more)
 * [📣 Feedback](#-feedback)
 * [©️ Legal](#️-legal)
@@ -18,7 +17,7 @@
 
 ## 📝 Description
 
-This is a repackaging of the compiled iOS module for [ti.coremotion](https://github.com/appcelerator-modules/ti.coremotionn) to allow for installation via npm.
+This is a repackaging of the compiled iOS module for [ti.coremotion](https://github.com/appcelerator-modules/ti.coremotion) to allow for installation via npm.
 
 ## 🚀 Getting Started
 
@@ -46,27 +45,20 @@ var pedometer = coreMotion.createPedometer();
 
 ## ✨Features
 
-* [x] Includes Titanium native iOS module: `ti.animation 2.0.0`
-* [x] Includes Titanium native Android module: `ti.animation 3.0.0`
-* [x] Display Lottie animations
-
-## Library versions:
-
-The Titanium modules use external libraries
-
-|Library|Platform|Version|Build Date|
-|---|---|---|---|
-| [Airbnb Lottie](https://github.com/airbnb/lottie-android) | Android | 2.6.1 | 2018/09/06 |
-| [Airbnb Lottie](https://github.com/airbnb/lottie-ios) | iOS | 2.5.2 | 2018/12/10 |
-
-
+* [x] accelerometer
+* [x] gyroscope
+* [x] magnetometer
+* [x] deviceMotion
+* [x] motionActivity
+* [x] pedometer
+* [ ] altimeter
 
 
 
 ## 📚Learn More
 
-- [Ti.Animation GitHub Repo](https://github.com/m1ga/ti.animation) - Repo for Ti.Animations modules
-- [LottieFiles](http://www.lottiefiles.com/) - Free Lottie animations
+- [ti.coremotion GitHub Repo](https://github.com/appcelerator-modules/ti.coremotion) - Repo for ti.coremotion modules
+- [Apple iOS CoreMotion](https://developer.apple.com/documentation/coremotion?language=swift) 
 
 
 ## 📣 Feedback
