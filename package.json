@@ -1,6 +1,6 @@
 {
 	"name": "@titanium/coremotion",
-	"version": "1.0.4",
+	"version": "1.0.5",
 	"description": "Native modules that allows you to use iOS CoreMotion framework with Axway Titanium native mobile apps.",
 	"main": "index.js",
 	"scripts": {
@@ -44,13 +44,13 @@
 	],
 	"titanium": {
 		"type": "native-module",
-		"version": "1.0.4",
+		"version": "1.0.5",
 		"moduleid": "titanium-coremotion",
 		"name": "titanium-coremotion",
 		"platform": {
 			"ios": {
 				"apiversion": 2,
-				"architecture": [
+				"architectures": [
 					"armv7",
 					"arm64",
 					"i386",
