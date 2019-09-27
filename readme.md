@@ -43,14 +43,14 @@ npm install @titanium/coremotion
 
 ```js
 
-var coreMotion = require('@titanium/coremotion');
+const coreMotion = require('@titanium/coremotion');
 
-var accelerometer = coreMotion.createAccelerometer();
-var gyroscope = coreMotion.createGyroscope();
-var magnetometer = coreMotion.createMagnetometer();
-var deviceMotion = coreMotion.createDeviceMotion();
-var motionActivity = coreMotion.createMotionActivity();
-var pedometer = coreMotion.createPedometer();
+const accelerometer = coreMotion.createAccelerometer();
+const gyroscope = coreMotion.createGyroscope();
+const magnetometer = coreMotion.createMagnetometer();
+const deviceMotion = coreMotion.createDeviceMotion();
+const motionActivity = coreMotion.createMotionActivity();
+const pedometer = coreMotion.createPedometer();
 
 ```
 
@@ -68,8 +68,8 @@ var pedometer = coreMotion.createPedometer();
 
 ## 📚Learn More
 
-- [ti.coremotion GitHub Repo](https://github.com/appcelerator-modules/ti.coremotion) - Repo for ti.coremotion modules
-- [Apple iOS CoreMotion](https://developer.apple.com/documentation/coremotion?language=swift) 
+⭐  [ti.coremotion GitHub Repo](https://github.com/appcelerator-modules/ti.coremotion) - Repo for ti.coremotion modules   
+⭐  [Apple iOS CoreMotion](https://developer.apple.com/documentation/coremotion?language=swift)    
 
 
 ## 📣 Feedback
