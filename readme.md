@@ -1,9 +1,18 @@
+<a href="#titaniumcoremotion">
+	<p align="center">
+		<img src="https://cdn.secure-api.org/images/warning-sign-area51.png" width="80%" />
+		<img src="https://cdn.secure-api.org/images/border-line-3.png" width="70%" height="50" />
+	</p>
+</a>
+
 # @titanium/coremotion
 
 [![@titanium/coremotion](https://img.shields.io/npm/v/@titanium/coremotion.png)](https://www.npmjs.com/package/@titanium/coremotion)
+[![Dependabot Status](https://api.dependabot.com/badges/status?host=github&repo=brentonhouse/titanium-coremotion)](https://dependabot.com)
+
+> This is an experiment by [Brenton House](https://brenton.house) using open-source projects.  You are welcome to try it out but be aware of the risks_
 
 
-> Native modules that allows you to use iOS CoreMotion framework with Axway Titanium native mobile apps.
 
 * [📝 Description](#-description)
 * [🚀 Getting Started](#-getting-started)
@@ -17,7 +26,9 @@
 
 ## 📝 Description
 
-This is a repackaging of the compiled iOS module for [ti.coremotion](https://github.com/appcelerator-modules/ti.coremotion) to allow for installation via npm.
+> Native modules that allows you to use iOS CoreMotion framework with Axway Titanium native mobile apps.
+>    
+> This is a repackaging of the compiled iOS module for [ti.coremotion](https://github.com/appcelerator-modules/ti.coremotion) to allow for installation via npm.
 
 ## 🚀 Getting Started
 
