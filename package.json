@@ -1,6 +1,6 @@
 {
 	"name": "@titanium/coremotion",
-	"version": "1.0.12",
+	"version": "1.0.13",
 	"description": "⭐  Axway Amplify modules for iOS CoreMotion framework with Appcelerator Titanium SDK",
 	"main": "index.js",
 	"scripts": {
